@@ -8,3 +8,5 @@ asciinema game brain-even (https://asciinema.org/a/ai5jn7A3lrUcdwqXUyDEqt4O9)
 asciinema game brain-calc (https://asciinema.org/a/5zjMH4tBlli6rwRq09TIg6QSe)
 
 asciinema game brain-gcd (https://asciinema.org/a/JrAlVYJD3mrWSkFc0ZK8FjZ4k)
+
+asciinema game brain-progression (https://asciinema.org/a/eZD5xzdn7lVDwY798sVaUWOyg)
