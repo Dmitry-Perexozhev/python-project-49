@@ -13,4 +13,3 @@ def game_progression():
     random_sequence[random_index_of_seq] = '..'
     print('Question:', *random_sequence)
     return correct_answer
-        

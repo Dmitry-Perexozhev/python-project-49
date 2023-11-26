@@ -11,4 +11,3 @@ def game_prime():
             break
     print(f'Question: {random_number}')
     return correct_answer
-        

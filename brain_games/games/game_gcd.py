@@ -11,4 +11,3 @@ def game_gcd():
             correct_answer = i
     print(f'Question: {first_random_number} {second_random_number}')
     return str(correct_answer)
-        

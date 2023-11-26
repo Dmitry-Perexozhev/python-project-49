@@ -7,4 +7,3 @@ def game_even():
     correct_answer = ('yes', 'no')[random_number % 2]
     print(f'Question: {random_number}')
     return correct_answer
-        
