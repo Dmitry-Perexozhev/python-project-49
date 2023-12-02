@@ -15,5 +15,5 @@ def generate_round():
     divisors_of_second_random_number = set(find_divisors(second_random_number))
     correct_answer =\
         max(divisors_of_first_random_number & divisors_of_second_random_number)
-    print(f'Question: {first_random_number} {second_random_number}')
-    return str(correct_answer)
+    question = f'Question: {first_random_number} {second_random_number}'
+    return str(correct_answer), question

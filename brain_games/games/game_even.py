@@ -10,5 +10,5 @@ def is_even(number):
 def generate_round():
     random_number = randint(1, 100)
     correct_answer = 'yes' if is_even(random_number) else 'no'
-    print(f'Question: {random_number}')
-    return correct_answer
+    question = f'Question: {random_number}'
+    return correct_answer, question
